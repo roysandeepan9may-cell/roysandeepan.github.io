@@ -1,6 +1,5 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Sandeepan Roy
-description: I'm an AI Engineer with 8+ years of software engineering experience, focused on building production-ready applications using Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agentic AI, and cloud-native technologies.
-I specialize in transforming business problems into practical AI solutions — from intelligent assistants and document processing to multi-agent automation, AI analytics, and real-time conversational applications.
+logo: /assets/img/profile.jpg
+description: AI Engineer | Generative AI | Agentic AI | RAG | AWS | Azure
+show_downloads: false
+theme: jekyll-theme-minimal

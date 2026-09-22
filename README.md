@@ -33,7 +33,7 @@ I help startups and businesses design, build and deploy practical AI solutions.
 
 ### 🤖 AI Assistants & Chatbots
 
-Build intelligent assistants for:
+Build intelligent assistants for
 
 - Customer support
 - Internal knowledge management
@@ -43,7 +43,7 @@ Build intelligent assistants for:
 
 ### 📚 RAG Applications
 
-Connect Large Language Models with your private business knowledge:
+Connect Large Language Models with your private business knowledge
 
 - PDF documents
 - Company policies
@@ -54,7 +54,7 @@ Connect Large Language Models with your private business knowledge:
 
 ### 🧠 Agentic AI & Automation
 
-Build AI-powered workflows that can:
+Build AI-powered workflows that can
 
 - Reason over tasks
 - Call tools and APIs
@@ -65,7 +65,7 @@ Build AI-powered workflows that can:
 
 ### 📄 Document Intelligence
 
-Automate information extraction from:
+Automate information extraction from
 
 - Invoices
 - Contracts
@@ -77,7 +77,7 @@ Automate information extraction from:
 
 ### 📊 AI Data Analytics
 
-Build applications where users can ask:
+Build applications where users can ask
 
 > "What were our top-selling products last quarter?"
 
@@ -85,7 +85,7 @@ and receive answers directly from business databases using natural language.
 
 ### 🎙️ Voice AI
 
-Build real-time conversational applications using:
+Build real-time conversational applications using
 
 - Speech-to-Text
 - Large Language Models
@@ -252,7 +252,7 @@ Focus areas:
 
 # 🏗️ AI Architecture Expertise
 
-I design AI systems around:
+I design AI systems around
 
 ```text
                     ┌──────────────────┐
@@ -283,7 +283,7 @@ I design AI systems around:
                     └──────────────────┘
 ```
 
-I focus on building systems that are:
+I focus on building systems that are
 
 - Scalable
 - Secure

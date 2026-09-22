@@ -228,25 +228,26 @@ Focus areas:
 
 | Domain | Technologies |
 |---|---|
-| 🤖 Generative AI | OpenAI, Claude, LLaMA, Mistral, Gemini |
-| 🧠 Agentic AI | LangGraph, LangChain, LlamaIndex, MCP |
-| 📚 RAG | RAG, Hybrid Search, Reranking, Semantic Search |
-| 🔤 NLP | Transformers, Hugging Face, Embeddings, Tokenization |
-| 🐍 Programming | Python, SQL, Java, C++, Go, Rust |
-| ⚡ Backend | FastAPI, REST APIs, Microservices |
-| 🧠 Machine Learning | PyTorch, TensorFlow, Scikit-learn |
-| 📊 Data | Pandas, NumPy, PySpark |
-| 🗄️ Databases | PostgreSQL, MySQL, DynamoDB, Cassandra |
-| 🔎 Vector Databases | PGVector, Pinecone, FAISS, Chroma, Weaviate |
-| ☁️ AWS | Bedrock, SageMaker, Lambda, ECS, EKS |
-| ☁️ Azure | Azure AI, Azure OpenAI, AKS, Container Apps, Cosmos DB |
-| ☁️ Google Cloud | Vertex AI, Cloud Run, GKE, BigQuery |
-| 🐳 DevOps | Docker, Kubernetes, Terraform |
-| 🔄 CI/CD | GitHub Actions |
-| 📈 MLOps | MLflow, Kubeflow |
-| 📊 Observability | OpenTelemetry, Prometheus, Grafana, Langfuse |
-| 🔐 AI Security | Guardrails, Prompt Injection Protection, IAM, Secrets Management |
-
+| 🤖 **Generative AI** | OpenAI, Claude, Gemini, LLaMA, Mistral |
+| 🧠 **Agentic AI** | LangGraph, LangChain, LlamaIndex, Model Context Protocol (MCP) |
+| 📚 **RAG** | Retrieval-Augmented Generation, Hybrid Search, Semantic Search, Reranking |
+| 🔤 **NLP** | Transformers, Hugging Face, Embeddings, Tokenization |
+| 🐍 **Programming** | Python, SQL, JavaScript, TypeScript, Go, Rust |
+| ⚛️ **Frontend** | React, TypeScript, JavaScript, HTML5, CSS3 |
+| 🎨 **UI / Web** | React, REST APIs, WebSockets, Responsive Web Applications |
+| ⚡ **Backend** | FastAPI, REST APIs, Microservices, WebSockets |
+| 🧠 **Machine Learning** | PyTorch, TensorFlow, Scikit-learn |
+| 📊 **Data Engineering** | Pandas, NumPy, PySpark, Apache Spark |
+| 🗄️ **Databases** | PostgreSQL, MySQL, DynamoDB, Cassandra |
+| 🔎 **Vector Databases** | PGVector, Pinecone, FAISS, Chroma, Weaviate |
+| ☁️ **AWS** | Amazon Bedrock, SageMaker, Lambda, ECS, EKS, S3, DynamoDB |
+| ☁️ **Microsoft Azure** | Azure AI, Azure OpenAI, Azure AI Search, AKS, Container Apps, Blob Storage, Cosmos DB |
+| ☁️ **Google Cloud** | Vertex AI, Cloud Run, Google Kubernetes Engine, BigQuery, Cloud Storage |
+| 🐳 **DevOps** | Docker, Kubernetes, Terraform |
+| 🔄 **CI/CD** | GitHub Actions |
+| 📈 **MLOps / LLMOps** | MLflow, Kubeflow |
+| 📊 **Observability** | OpenTelemetry, Prometheus, Grafana, Langfuse |
+| 🔐 **AI Security** | Guardrails, Prompt Injection Protection, IAM, Secrets Management |
 ---
 
 # 🏗️ AI Architecture Expertise

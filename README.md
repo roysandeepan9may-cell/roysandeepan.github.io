@@ -226,13 +226,13 @@ Focus areas:
 
 # 🛠️ Tech Arsenal
 
-| Domain | Technologies |
+| 🧩 Domain | 🛠️ Technologies |
 |---|---|
 | 🤖 **Generative AI** | OpenAI, Claude, Gemini, LLaMA, Mistral |
 | 🧠 **Agentic AI** | LangGraph, LangChain, LlamaIndex, Model Context Protocol (MCP) |
 | 📚 **RAG** | Retrieval-Augmented Generation, Hybrid Search, Semantic Search, Reranking |
 | 🔤 **NLP** | Transformers, Hugging Face, Embeddings, Tokenization |
-| 🐍 **Programming** | Python, SQL, JavaScript, TypeScript, Go, Rust |
+| 🐍 **Programming** | Python, SQL, Java, JavaScript, TypeScript, C++, Go, Rust |
 | ⚛️ **Frontend** | React, TypeScript, JavaScript, HTML5, CSS3 |
 | 🎨 **UI / Web** | React, REST APIs, WebSockets, Responsive Web Applications |
 | ⚡ **Backend** | FastAPI, REST APIs, Microservices, WebSockets |
@@ -248,6 +248,7 @@ Focus areas:
 | 📈 **MLOps / LLMOps** | MLflow, Kubeflow |
 | 📊 **Observability** | OpenTelemetry, Prometheus, Grafana, Langfuse |
 | 🔐 **AI Security** | Guardrails, Prompt Injection Protection, IAM, Secrets Management |
+
 ---
 
 # 🏗️ AI Architecture Expertise
